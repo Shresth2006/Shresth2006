@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Shresth 👋</h1>
-<h3 align="center">CS Undergrad @ SVNIT Surat · AI Product & Full-Stack Engineering</h3>
+<h3 align="center">CS Undergrad @ SVNIT Surat · AI Product Management & Full-Stack Software Dev </h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/shresth2006/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
