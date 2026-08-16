@@ -16,7 +16,7 @@
 - 🥇 **1st Prize, COEP Inspiron 5.0 National Hackathon** (₹20,000, 280+ teams) — built AegisAI, an autonomous urban emergency-response system
 - 🏗️ Executive Member, ACM Student Chapter SVNIT (co-organized Hack the Tank 3.0, led Geekend 6.0) · Junior Developer, GDSC SVNIT
 - 🥈 Runner-up, Google Winter of Code (SVNIT) — built Bloom Branding, a full-stack platform for a real external client
-- 📫 Reach me at YOUR-EMAIL@example.com
+- 📫 Reach me at shandilyashresth@gmail.com
 - 🎯 Open to Summer 2027 SDE / AI Product internships
 
 ---
