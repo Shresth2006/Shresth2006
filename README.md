@@ -14,7 +14,7 @@
 - 💼 Currently **AI Product Management Intern @ Campayn** — building an AI-powered brand-outreach pipeline; converted 100+ automated outreach contacts into qualified leads (~9% conversion) in month one
 - 🛩️ Previously **Software Development Intern @ Ghaghane Aviation** — cut average flight-planning time from ~3 min to 10 sec (~94% faster) by redesigning backend workflows on their aviation-ops platform, and helped migrate a legacy PHP system to React (TS) + Django + PostgreSQL on Azure
 - 🥇 **1st Prize, COEP Inspiron 5.0 National Hackathon** (₹20,000, 280+ teams) — built AegisAI, an autonomous urban emergency-response system
-- 🏗️ Executive Member, ACM Student Chapter SVNIT (co-organized Hack the Tank 3.0, led Geekend 6.0) · Junior Developer, GDSC SVNIT
+- 🏗️ Junior Developer, GDSC SVNIT (co-organized Hack the Tank 3.0) · Executive Member, ACM Student Chapter SVNIT (led Geekend 6.0)
 - 🥈 Runner-up, Google Winter of Code (SVNIT) — built Bloom Branding, a full-stack platform for a real external client
 - 📫 Reach me at shandilyashresth@gmail.com
 - 🎯 Open to Summer 2027 SDE / AI Product internships
